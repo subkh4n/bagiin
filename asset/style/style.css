@@ -1,0 +1,78 @@
+.btn-master, .btn-outline-success, .btn-outline-success:hover, .putih, .putih:hover {
+  padding: 15px 26px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-outline-success {
+  background-color: #389396 !important;
+  border: none;
+  color: white;
+}
+
+.btn-outline-success:hover {
+  background-color: whitesmoke !important;
+  border: 0 solid #389396;
+  color: #389396;
+}
+
+.putih {
+  background-color: white !important;
+  color: #389396;
+}
+
+.putih:hover {
+  background-color: #389396 !important;
+  color: white;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-tp {
+  padding-top: 30px;
+}
+
+.navbar-tp .navborder {
+  border-left: 2px solid #ADADAD;
+  padding-left: 10px !important;
+}
+
+.navbar-tp .navbar-nav li {
+  padding-left: 10px;
+}
+
+.navbar-tp .navbar-nav .active {
+  font-weight: !important;
+}
+
+.navbar-tp .navbar-nav .nav-link {
+  font-weight: 400;
+}
+
+.bagiin {
+  margin-top: 100px;
+}
+
+.bagiin .imgjumbo {
+  height: 700px;
+  width: 670px;
+  margin-top: -195px;
+  padding-left: 50px;
+}
+
+.bagiin .header {
+  font-size: 38px;
+  font-weight: 600;
+  color: #292C2B;
+  margin-bottom: 30px;
+  line-height: 58px;
+}
+
+.bagiin .description {
+  font-size: 16px;
+  color: #ADADAD;
+  margin-top: 50px;
+}
+/*# sourceMappingURL=style.css.map */
