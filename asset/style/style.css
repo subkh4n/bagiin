@@ -26,6 +26,15 @@
   color: white;
 }
 
+@media only screen and (max-width: 768px) {
+  .navbar-tp .navborder {
+    border: none !important;
+  }
+  .bagiin .imgjumbo {
+    margin-top: 50px !important;
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .navbar-tp .navborder {
     border: none !important;
