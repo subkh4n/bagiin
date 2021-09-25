@@ -67,6 +67,16 @@
   }
 }
 
+@media only screen and (max-width: 375px) {
+  .header {
+    font-size: 28px !important;
+    line-height: 38px;
+  }
+  .description {
+    font-size: 12px !important;
+  }
+}
+
 body {
   font-family: 'Poppins', sans-serif;
 }
