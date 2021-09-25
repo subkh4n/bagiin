@@ -58,7 +58,7 @@
     margin-left: -50px;
   }
   .bagiin .header {
-    font-size: 32px !important;
+    font-size: 32px;
     line-height: 38px;
   }
   .bagiin .description {
@@ -70,9 +70,6 @@
   .header {
     font-size: 30px;
     line-height: 38px;
-  }
-  .description {
-    font-size: 12px !important;
   }
 }
 
